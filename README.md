@@ -15,6 +15,7 @@ A collection of networking and Linux fundamentals, commands, concepts, and pract
 * MAC addresses
 * DNS
 * DHCP
+* NAT and PAT
 * TCP and UDP
 * HTTP and HTTPS
 * Common protocols and ports
